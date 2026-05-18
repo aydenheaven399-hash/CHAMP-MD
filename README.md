@@ -10,7 +10,7 @@ Welcome to **𝗖𝗛𝗔𝗠𝗣-𝗠𝗗**, an open-source WhatsApp bot develo
 - **Extensible**: Easily add new features and commands to suit your needs.
 - **API Integration**: Seamlessly integrate with other APIs to expand functionality.
 
-<a><img src='https://files.catbox.moe/3jkspa.jpg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Getting Started
 ### Get Your Session(session id fixed😋😋)
@@ -21,7 +21,7 @@ This is Important To Run Your Bot
 <a href="https://session-fqll.onrender.com"><img title="PAIR NEW CHAMPS SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=indigo&style=for-the-badge&logo=msi"></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/3jkspa.jpg'/></a>
 
 ------
 
