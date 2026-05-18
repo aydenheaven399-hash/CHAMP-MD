@@ -10,7 +10,7 @@ Welcome to **𝗖𝗛𝗔𝗠𝗣-𝗠𝗗**, an open-source WhatsApp bot develo
 - **Extensible**: Easily add new features and commands to suit your needs.
 - **API Integration**: Seamlessly integrate with other APIs to expand functionality.
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/3jkspa.jpg'/></a>
 
 ## Getting Started
 ### Get Your Session(session id fixed😋😋)
